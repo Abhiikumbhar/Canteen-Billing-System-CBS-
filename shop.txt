@@ -1,0 +1,1 @@
+ 1 Pohe 10  2 Upit 10  3 Samosa 15  4 Shira 10  5 Pizza 50  6 Burger 40  7 Coke 25  8 Tea 7  9 Coffee 30 
